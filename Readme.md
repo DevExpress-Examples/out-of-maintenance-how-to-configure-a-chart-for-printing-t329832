@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.aspx](./CS/PrintingOptionsSample/MainPage.aspx) (VB: [MainPage.aspx](./VB/PrintingOptionsSample/MainPage.aspx))**
+<!-- default file list end -->
 # How to: Configure a Chart for Printing 
 
 
